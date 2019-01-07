@@ -2,3 +2,10 @@ packing list
 ------------
 Shirt
 Shoes
+trousers
+------------
+Technology
+------------
+ipad
+iphone
+iwach
