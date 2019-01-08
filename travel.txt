@@ -1,4 +1,5 @@
 packing list
 ------------
-Shirt
-Shoes
+- Shirt
+- Shoes
+- Jeans
